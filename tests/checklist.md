@@ -9,9 +9,9 @@ Sinh viên tự kiểm trước khi nộp bài.
 - [x] Tôi đã ghi lại tiến trình làm bài trong `logs/activity_log.md`.
 - [x] Tôi đã commit ít nhất 2 lần với nội dung có ý nghĩa.
 - [x] Tôi đã push repo lên GitHub thành công.
-- [] Tôi đã kiểm tra link repo mở được.
-- [] Tôi đã kiểm tra repo có đầy đủ README, answers, tests, logs, report.
-- [] Tôi đã sẵn sàng nộp link repo lên hệ thống submission.
+- [x] Tôi đã kiểm tra link repo mở được.
+- [x] Tôi đã kiểm tra repo có đầy đủ README, answers, tests, logs, report.
+- [x] Tôi đã sẵn sàng nộp link repo lên hệ thống submission.
 
 ## 5 tự kiểm về nội dung chuyên môn
 - [x] Tôi đã nêu ít nhất 2 assets.
